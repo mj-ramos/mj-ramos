@@ -4,13 +4,11 @@ I'm from Braga, Portugal, and I'm currently studying Software Engineering at Uni
 
 
 ## Things about me :woman:
-- I volunteer at ABRA, a non-profit organization that helps dogs and cats;
-- My hobbies include watching movies/series, reading and listening to music;
-- I like to work with clay and soon I will open an online shop.
- 
-## Coding :desktop_computer:	
-My favorite coding languages are Java, C and Python.  
-I don't have many public projects because I'm a perfectionist and I don't want things that I'm not that proud of represent me. Soon I'll be adding more projects. 
+- :dog: I volunteer at ABRA, a non-profit organization that helps dogs and cats;
+- :movie_camera: My hobbies include watching movies/series, reading, drawing/painting and listening to music;
+- :art: I like to work with clay and soon I will open an online shop;
+- :computer: My favorite coding languages are Java, C and Python.  
+
 
 <!--
 **mj-ramos/mj-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
