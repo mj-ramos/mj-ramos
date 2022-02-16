@@ -4,7 +4,7 @@ I'm from Braga, Portugal, and I'm currently studying Software Engineering at Uni
 I'm in the 1st year of my master's degree in Language Engineering and Distributed Systems.
 
 
-## Things about me :woman:
+## Things about me
 - :dog: I volunteer at ABRA, a non-profit organization that helps dogs and cats;
 - :movie_camera: My hobbies include watching movies/series, reading, drawing/painting and listening to music;
 
