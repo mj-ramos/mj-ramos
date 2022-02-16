@@ -7,7 +7,6 @@ I'm in the 1st year of my master's degree in Language Engineering and Distribute
 ## Things about me :woman:
 - :dog: I volunteer at ABRA, a non-profit organization that helps dogs and cats;
 - :movie_camera: My hobbies include watching movies/series, reading, drawing/painting and listening to music;
-- :art: I 
 
 
 
