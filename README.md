@@ -1,13 +1,14 @@
 
 ## Hi 👋 I'm Maria and welcome to my GitHub profile :smile:  
 I'm from Braga, Portugal, and I'm currently studying Software Engineering at University of Minho.    
+I'm in the 1st year of my master's degree in Language Engineering and Distributed Systems.
 
 
 ## Things about me :woman:
 - :dog: I volunteer at ABRA, a non-profit organization that helps dogs and cats;
 - :movie_camera: My hobbies include watching movies/series, reading, drawing/painting and listening to music;
-- :art: I like to work with clay and soon I will open an online shop;
-- :computer: My favorite coding languages are Java, C and Python.  
+- :art: I 
+
 
 
 <!--
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ..
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
