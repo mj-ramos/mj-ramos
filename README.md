@@ -1,5 +1,5 @@
 
-## Hi 👋 I'm Maria and welcome to my GitHub profile :smile:  
+## Hi! I'm Maria and welcome to my GitHub profile :smile:  
 I'm from Braga, Portugal, and I'm currently studying Software Engineering at University of Minho.    
 I'm in the 1st year of my master's degree in Language Engineering and Distributed Systems.
 
