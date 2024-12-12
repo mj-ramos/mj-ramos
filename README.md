@@ -1,6 +1,5 @@
 
 ## Hi! I'm Maria and welcome to my GitHub profile :smile:  
-I'm from Braga, Portugal, and I'm currently studying Software Engineering at University of Minho.    
 
 
 
